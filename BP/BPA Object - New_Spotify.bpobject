@@ -1,0 +1,828 @@
+﻿<process name="New_Spotify" version="1.0" bpversion="6.10.1.35171" narrative="" byrefcollection="true" type="object" runmode="Exclusive" preferredid="0edf38f0-7031-41ff-85fa-6c50cafb56f8">
+  <appdef>
+    <element name="New Spotify">
+      <id>a1fb7923-4e74-49f4-a00c-de360e2387ca</id>
+      <element name="Spotify Window">
+        <id>4827edc5-e29b-4686-8dbb-93392ecbfd6d</id>
+        <type>Window</type>
+        <basetype>Window</basetype>
+        <datatype>text</datatype>
+        <diagnose>False</diagnose>
+        <attributes>
+          <attribute name="WindowText">
+            <ProcessValue datatype="text" value="Google - Brave" />
+          </attribute>
+          <attribute name="ClassName" inuse="True">
+            <ProcessValue datatype="text" value="Chrome_WidgetWin_1" />
+          </attribute>
+          <attribute name="CtrlID">
+            <ProcessValue datatype="number" value="0" />
+          </attribute>
+          <attribute name="X">
+            <ProcessValue datatype="number" value="941" />
+          </attribute>
+          <attribute name="Y">
+            <ProcessValue datatype="number" value="0" />
+          </attribute>
+          <attribute name="Width">
+            <ProcessValue datatype="number" value="980" />
+          </attribute>
+          <attribute name="Height">
+            <ProcessValue datatype="number" value="1031" />
+          </attribute>
+          <attribute name="Visible" inuse="True">
+            <ProcessValue datatype="flag" value="True" />
+          </attribute>
+          <attribute name="ScreenVisible" inuse="True">
+            <ProcessValue datatype="flag" value="True" />
+          </attribute>
+          <attribute name="Enabled" inuse="True">
+            <ProcessValue datatype="flag" value="True" />
+          </attribute>
+          <attribute name="Active">
+            <ProcessValue datatype="flag" value="True" />
+          </attribute>
+          <attribute name="Ordinal">
+            <ProcessValue datatype="number" value="2" />
+          </attribute>
+          <attribute name="ChildCount">
+            <ProcessValue datatype="number" value="4" />
+          </attribute>
+          <attribute name="AncestorsText">
+            <ProcessValue datatype="text" value="&lt;UNKNOWN&gt; " />
+          </attribute>
+          <attribute name="AncestorCount">
+            <ProcessValue datatype="number" value="1" />
+          </attribute>
+          <attribute name="TypeName">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="ScreenBounds">
+            <ProcessValue datatype="text" value="RECT:950,0,1021,1911" />
+          </attribute>
+          <attribute name="Style">
+            <ProcessValue datatype="number" value="382664704" />
+          </attribute>
+          <attribute name="MatchIndex">
+            <ProcessValue datatype="number" value="1" />
+          </attribute>
+          <attribute name="MatchReverse">
+            <ProcessValue datatype="flag" value="True" />
+          </attribute>
+        </attributes>
+      </element>
+      <element name="Play Button">
+        <id>a84672e9-283d-429f-a55a-964a2035578c</id>
+        <type>UIAButton</type>
+        <basetype>UIAButton</basetype>
+        <datatype>text</datatype>
+        <diagnose>False</diagnose>
+        <attributes>
+          <attribute name="uX">
+            <ProcessValue datatype="number" value="1264" />
+          </attribute>
+          <attribute name="uY">
+            <ProcessValue datatype="number" value="587" />
+          </attribute>
+          <attribute name="uWidth">
+            <ProcessValue datatype="number" value="75" />
+          </attribute>
+          <attribute name="uHeight">
+            <ProcessValue datatype="number" value="76" />
+          </attribute>
+          <attribute name="uClassName" inuse="True">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="uAutomationId" inuse="True">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="uControlType" inuse="True">
+            <ProcessValue datatype="text" value="Button" />
+          </attribute>
+          <attribute name="uLocalizedControlType">
+            <ProcessValue datatype="text" value="button" />
+          </attribute>
+          <attribute name="uIsPassword">
+            <ProcessValue datatype="flag" value="False" />
+          </attribute>
+          <attribute name="uIsRequiredForForm">
+            <ProcessValue datatype="flag" value="False" />
+          </attribute>
+          <attribute name="uName" inuse="True">
+            <ProcessValue datatype="text" value="Play" />
+          </attribute>
+          <attribute name="uOrientation">
+            <ProcessValue datatype="text" value="None" />
+          </attribute>
+          <attribute name="uItemStatus">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="uItemType" inuse="True">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="uOffscreen">
+            <ProcessValue datatype="flag" value="False" />
+          </attribute>
+          <attribute name="uTopLevelWindowId" inuse="True">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="uLabeledBy">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="uEnabled">
+            <ProcessValue datatype="text" value="True" />
+          </attribute>
+          <attribute name="uAcceleratorKey">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="uAccessKey">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="uHasKeyboardFocus">
+            <ProcessValue datatype="text" value="False" />
+          </attribute>
+          <attribute name="uHelpText">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="uProcessId">
+            <ProcessValue datatype="text" value="4580" />
+          </attribute>
+          <attribute name="puControlType">
+            <ProcessValue datatype="text" value="Group" />
+          </attribute>
+          <attribute name="puLocalizedControlType">
+            <ProcessValue datatype="text" value="main" />
+          </attribute>
+          <attribute name="puClassName">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="puName">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="puAutomationId">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="MatchIndex" inuse="True">
+            <ProcessValue datatype="number" value="3" />
+          </attribute>
+        </attributes>
+      </element>
+      <element name="Pause Button">
+        <id>2165444b-ab77-429d-8cf5-f132617d0a0d</id>
+        <type>UIAButton</type>
+        <basetype>UIAButton</basetype>
+        <datatype>text</datatype>
+        <diagnose>False</diagnose>
+        <attributes>
+          <attribute name="uX">
+            <ProcessValue datatype="number" value="1285" />
+          </attribute>
+          <attribute name="uY">
+            <ProcessValue datatype="number" value="574" />
+          </attribute>
+          <attribute name="uWidth">
+            <ProcessValue datatype="number" value="75" />
+          </attribute>
+          <attribute name="uHeight">
+            <ProcessValue datatype="number" value="76" />
+          </attribute>
+          <attribute name="uClassName" inuse="True">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="uAutomationId" inuse="True">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="uControlType" inuse="True">
+            <ProcessValue datatype="text" value="Button" />
+          </attribute>
+          <attribute name="uLocalizedControlType">
+            <ProcessValue datatype="text" value="button" />
+          </attribute>
+          <attribute name="uIsPassword">
+            <ProcessValue datatype="flag" value="False" />
+          </attribute>
+          <attribute name="uIsRequiredForForm">
+            <ProcessValue datatype="flag" value="False" />
+          </attribute>
+          <attribute name="uName" inuse="True">
+            <ProcessValue datatype="text" value="Pause" />
+          </attribute>
+          <attribute name="uOrientation">
+            <ProcessValue datatype="text" value="None" />
+          </attribute>
+          <attribute name="uItemStatus">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="uItemType" inuse="True">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="uOffscreen">
+            <ProcessValue datatype="flag" value="False" />
+          </attribute>
+          <attribute name="uTopLevelWindowId" inuse="True">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="uLabeledBy">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="uEnabled">
+            <ProcessValue datatype="text" value="True" />
+          </attribute>
+          <attribute name="uAcceleratorKey">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="uAccessKey">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="uHasKeyboardFocus">
+            <ProcessValue datatype="text" value="False" />
+          </attribute>
+          <attribute name="uHelpText">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="uProcessId">
+            <ProcessValue datatype="text" value="10924" />
+          </attribute>
+          <attribute name="puControlType">
+            <ProcessValue datatype="text" value="Group" />
+          </attribute>
+          <attribute name="puLocalizedControlType">
+            <ProcessValue datatype="text" value="main" />
+          </attribute>
+          <attribute name="puClassName">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="puName">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="puAutomationId">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="MatchIndex" inuse="True">
+            <ProcessValue datatype="number" value="3" />
+          </attribute>
+        </attributes>
+      </element>
+      <group name="Element1">
+        <id>840238cd-5dc9-4ad1-9cbd-d2c1b309081a</id>
+      </group>
+      <type>Application</type>
+      <basetype>Application</basetype>
+      <datatype>unknown</datatype>
+      <diagnose>False</diagnose>
+    </element>
+    <apptypeinfo>
+      <id>BrowserLaunch</id>
+      <parameters>
+        <parameter>
+          <name>Path</name>
+          <value>C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe</value>
+        </parameter>
+        <parameter>
+          <name>CommandLineParams</name>
+          <value>https://www.google.com/</value>
+        </parameter>
+        <parameter>
+          <name>ProcessMode</name>
+          <value>Internal</value>
+        </parameter>
+        <parameter>
+          <name>ExternalProcessTimeout</name>
+          <value>0</value>
+        </parameter>
+      </parameters>
+    </apptypeinfo>
+  </appdef>
+  <view>
+    <camerax>0</camerax>
+    <cameray>0</cameray>
+    <zoom version="2">1.25</zoom>
+  </view>
+  <preconditions />
+  <endpoint narrative="" />
+  <subsheet subsheetid="c4fe4f2e-f856-44bc-a1dc-ee1b168f1d16" type="CleanUp" published="True">
+    <name>Clean Up</name>
+    <view>
+      <camerax>0</camerax>
+      <cameray>0</cameray>
+      <zoom version="2">1.25</zoom>
+    </view>
+  </subsheet>
+  <subsheet subsheetid="a9044a99-17db-4278-80fd-b86fbec8082a" type="Normal" published="False">
+    <name>Action 1</name>
+    <view>
+      <camerax>113</camerax>
+      <cameray>111</cameray>
+      <zoom version="2">1.25</zoom>
+    </view>
+  </subsheet>
+  <stage stageid="66ae8fda-f5e8-457c-921a-16fdf82e4d3d" name="Start" type="Start">
+    <loginhibit />
+    <display x="15" y="-105" />
+    <onsuccess>bfdabac1-400a-48b5-a3c5-4411d627d724</onsuccess>
+  </stage>
+  <stage stageid="22ff4491-aee5-4b36-9cfb-eb4e178bf1d3" name="End" type="End">
+    <loginhibit />
+    <display x="15" y="90" />
+  </stage>
+  <stage stageid="1c564089-90a6-4ba4-ae80-03c984aa1470" name="Stage1" type="ProcessInfo">
+    <display x="-195" y="-105" w="150" h="90" />
+    <references>
+      <reference>System.dll</reference>
+      <reference>System.Data.dll</reference>
+      <reference>System.Xml.dll</reference>
+      <reference>System.Drawing.dll</reference>
+    </references>
+    <imports>
+      <import>System</import>
+      <import>System.Drawing</import>
+      <import>System.Data</import>
+    </imports>
+    <language>visualbasic</language>
+    <globalcode><![CDATA[]]></globalcode>
+    <code><![CDATA[]]></code>
+  </stage>
+  <stage stageid="74b4d7f4-5eea-491a-b78c-edd8fec58539" name="Clean Up" type="SubSheetInfo">
+    <subsheetid>c4fe4f2e-f856-44bc-a1dc-ee1b168f1d16</subsheetid>
+    <display x="-195" y="-105" w="150" h="90" />
+  </stage>
+  <stage stageid="3c56ccce-9282-4405-9597-b148977b49b6" name="Start" type="Start">
+    <subsheetid>c4fe4f2e-f856-44bc-a1dc-ee1b168f1d16</subsheetid>
+    <loginhibit />
+    <display x="15" y="-105" />
+    <onsuccess>c65cb1c2-a494-4372-9ea5-c0e15e3e465a</onsuccess>
+  </stage>
+  <stage stageid="c65cb1c2-a494-4372-9ea5-c0e15e3e465a" name="End" type="End">
+    <subsheetid>c4fe4f2e-f856-44bc-a1dc-ee1b168f1d16</subsheetid>
+    <loginhibit />
+    <display x="15" y="90" />
+  </stage>
+  <stage stageid="eba40046-f176-4bb9-a401-f153cde50e6c" name="Action 1" type="SubSheetInfo">
+    <subsheetid>a9044a99-17db-4278-80fd-b86fbec8082a</subsheetid>
+    <display x="-375" y="-105" w="150" h="90" />
+  </stage>
+  <stage stageid="671c419a-35a0-418a-9f48-94b89ad5139b" name="End" type="End">
+    <subsheetid>a9044a99-17db-4278-80fd-b86fbec8082a</subsheetid>
+    <loginhibit />
+    <display x="240" y="390" />
+  </stage>
+  <stage stageid="ba800334-1e5e-47eb-974e-e2c98ebed06f" name="" type="Note">
+    <subsheetid>c4fe4f2e-f856-44bc-a1dc-ee1b168f1d16</subsheetid>
+    <narrative>Clean Up Page
+
+This is an optional page where you might choose to perform some finalisation (or "cleanup") tasks as your business object is closed down.
+
+The cleanup action will be called automatically immediately after closing your business object at the end of a business process.
+
+You will not be able to call this action from a business process, nor will it be called at any other time than before the disposal of the business object.</narrative>
+    <display x="-180" y="60" w="180" h="230" />
+  </stage>
+  <stage stageid="ff53170f-8c7e-4718-ac7e-bc970ffbd0ac" name="" type="Note">
+    <narrative>Initialise Page
+
+This is an optional page where you might choose to perform some initialisation tasks after your business object is loaded.
+
+The initialise action will be called automatically immediately after loading your business object.
+
+You will not be able to call this action from a business process, nor will it be called at any other time than after the creation of the object.</narrative>
+    <display x="-180" y="60" w="180" h="230" />
+  </stage>
+  <stage stageid="11a43897-a201-4777-b405-f57d00b877d8" name="Get New Spotify" type="Action">
+    <subsheetid>a9044a99-17db-4278-80fd-b86fbec8082a</subsheetid>
+    <loginhibit onsuccess="true" />
+    <display x="150" y="-90" />
+    <inputs>
+      <input type="text" name="q" friendlyname="q" expr="[Query]" />
+      <input type="text" name="api_key" friendlyname="api_key" expr="[api key]" />
+    </inputs>
+    <outputs>
+      <output type="text" name="Response Content" friendlyname="Response Content" stage="" />
+      <output type="text" name="HTTP Status Code" friendlyname="HTTP Status Code" stage="" />
+      <output type="collection" name="Response Headers" friendlyname="Response Headers" stage="" />
+      <output type="text" name="href" friendlyname="href" stage="href" />
+    </outputs>
+    <onsuccess>3a00584f-b0dc-433c-b23a-53820bab63b6</onsuccess>
+    <resource object="New Spotify" action="GET" />
+  </stage>
+  <stage stageid="09679822-fc33-4f4a-aa2b-e61ca20e46e1" name="Request Data" type="Data">
+    <subsheetid>a9044a99-17db-4278-80fd-b86fbec8082a</subsheetid>
+    <display x="300" y="-90" />
+    <datatype>text</datatype>
+    <initialvalue />
+    <private />
+    <alwaysinit />
+  </stage>
+  <stage stageid="9da73860-dc4d-4638-928f-e7fb3773e2e8" name="href" type="Data">
+    <subsheetid>a9044a99-17db-4278-80fd-b86fbec8082a</subsheetid>
+    <display x="360" y="-90" />
+    <datatype>text</datatype>
+    <initialvalue />
+    <private />
+    <alwaysinit />
+  </stage>
+  <stage stageid="ba2ebf4a-b59a-4576-9262-6703197c6ebd" name="Response Headers" type="Collection">
+    <subsheetid>a9044a99-17db-4278-80fd-b86fbec8082a</subsheetid>
+    <display x="300" y="-45" />
+    <datatype>collection</datatype>
+    <private />
+    <alwaysinit />
+  </stage>
+  <stage stageid="c3dc9ac4-b329-40be-aa22-da7fd71cf711" name="HTTP Status Code" type="Data">
+    <subsheetid>a9044a99-17db-4278-80fd-b86fbec8082a</subsheetid>
+    <display x="300" y="-135" />
+    <datatype>text</datatype>
+    <initialvalue />
+    <private />
+    <alwaysinit />
+  </stage>
+  <stage stageid="953a6227-4ecf-47a2-aaa5-6fb8062b5f44" name="Response Content" type="Data">
+    <subsheetid>a9044a99-17db-4278-80fd-b86fbec8082a</subsheetid>
+    <display x="360" y="-135" />
+    <datatype>text</datatype>
+    <initialvalue />
+    <private />
+    <alwaysinit />
+  </stage>
+  <stage stageid="8438f86f-b40f-4a93-89bf-23bdf5810022" name="Query" type="Data">
+    <subsheetid>a9044a99-17db-4278-80fd-b86fbec8082a</subsheetid>
+    <loginhibit />
+    <display x="-150" y="120" />
+    <datatype>text</datatype>
+    <initialvalue />
+    <private />
+    <alwaysinit />
+  </stage>
+  <stage stageid="932349c0-0701-479e-be99-7cecf8f3b2af" name="api key" type="Data">
+    <subsheetid>a9044a99-17db-4278-80fd-b86fbec8082a</subsheetid>
+    <loginhibit />
+    <display x="360" y="-45" />
+    <datatype>text</datatype>
+    <initialvalue xml:space="preserve">fJrULJGVqnzkRAfqL</initialvalue>
+    <private />
+    <alwaysinit />
+  </stage>
+  <stage stageid="3a00584f-b0dc-433c-b23a-53820bab63b6" name="Launch The Spotify Window" type="Navigate">
+    <subsheetid>a9044a99-17db-4278-80fd-b86fbec8082a</subsheetid>
+    <loginhibit />
+    <display x="150" y="-30" w="90" h="30" />
+    <onsuccess>fabf6240-b546-4e9f-8ac8-4989c9ab4207</onsuccess>
+    <step>
+      <element id="a1fb7923-4e74-49f4-a00c-de360e2387ca" />
+      <action>
+        <id>Launch</id>
+        <arguments>
+          <argument>
+            <id>Path</id>
+            <value>
+            </value>
+          </argument>
+          <argument>
+            <id>CommandLineParams</id>
+            <value>[href]</value>
+          </argument>
+          <argument>
+            <id>ProcessMode</id>
+            <value>
+            </value>
+          </argument>
+        </arguments>
+        <outputs>
+          <output>
+            <id>trackingid</id>
+            <value>
+            </value>
+          </output>
+        </outputs>
+      </action>
+    </step>
+  </stage>
+  <stage stageid="e5e5eb99-7c45-4746-879a-6e87e4d464e5" name="Time Out1" type="WaitEnd">
+    <subsheetid>a9044a99-17db-4278-80fd-b86fbec8082a</subsheetid>
+    <loginhibit />
+    <display x="255" y="15" w="30" h="30" />
+    <onsuccess>5b51f45d-dd91-4a41-bdb1-009259a9bd59</onsuccess>
+    <groupid>c6344555-bdca-49b2-8fd4-9fb7495e438d</groupid>
+  </stage>
+  <stage stageid="fabf6240-b546-4e9f-8ac8-4989c9ab4207" name="Wait1" type="WaitStart">
+    <subsheetid>a9044a99-17db-4278-80fd-b86fbec8082a</subsheetid>
+    <loginhibit />
+    <display x="150" y="15" w="30" h="30" />
+    <groupid>c6344555-bdca-49b2-8fd4-9fb7495e438d</groupid>
+    <choices>
+      <choice reply="True">
+        <name>Spotify Window Check Exists</name>
+        <distance>30</distance>
+        <ontrue>1c4776f7-a121-4d27-a9d2-6f34a599c9b2</ontrue>
+        <element id="4827edc5-e29b-4686-8dbb-93392ecbfd6d" />
+        <condition>
+          <id>CheckExists</id>
+        </condition>
+        <comparetype>Equal</comparetype>
+      </choice>
+    </choices>
+    <timeout>10</timeout>
+  </stage>
+  <stage stageid="c3613a54-2d88-46cc-b7fe-9fb4cdef6aa8" name="Play Music" type="Navigate">
+    <subsheetid>a9044a99-17db-4278-80fd-b86fbec8082a</subsheetid>
+    <loginhibit />
+    <display x="210" y="105" />
+    <onsuccess>a05df406-1c06-40c4-b8bc-0652b0d7ad49</onsuccess>
+    <step>
+      <element id="a84672e9-283d-429f-a55a-964a2035578c" />
+      <action>
+        <id>UIAClickCentre</id>
+        <arguments>
+          <argument>
+            <id>newtext</id>
+            <value>
+            </value>
+          </argument>
+        </arguments>
+      </action>
+    </step>
+  </stage>
+  <stage stageid="5b51f45d-dd91-4a41-bdb1-009259a9bd59" name="Exception1" type="Exception">
+    <subsheetid>a9044a99-17db-4278-80fd-b86fbec8082a</subsheetid>
+    <display x="360" y="15" />
+    <exception localized="yes" type="" detail="Exception has occured" />
+  </stage>
+  <stage stageid="20d5b76f-b78b-49fc-8611-cc49d00f8c17" name="Time Out2" type="WaitEnd">
+    <subsheetid>a9044a99-17db-4278-80fd-b86fbec8082a</subsheetid>
+    <loginhibit />
+    <display x="255" y="60" w="30" h="30" />
+    <groupid>33dbb446-c51b-4066-85ce-82efb5bb649d</groupid>
+  </stage>
+  <stage stageid="1c4776f7-a121-4d27-a9d2-6f34a599c9b2" name="Wait2" type="WaitStart">
+    <subsheetid>a9044a99-17db-4278-80fd-b86fbec8082a</subsheetid>
+    <loginhibit />
+    <display x="180" y="60" w="30" h="30" />
+    <groupid>33dbb446-c51b-4066-85ce-82efb5bb649d</groupid>
+    <choices>
+      <choice reply="True">
+        <name>Play Button Check Exists</name>
+        <distance>30</distance>
+        <ontrue>c3613a54-2d88-46cc-b7fe-9fb4cdef6aa8</ontrue>
+        <element id="a84672e9-283d-429f-a55a-964a2035578c" />
+        <condition>
+          <id>CheckExists</id>
+        </condition>
+        <comparetype>Equal</comparetype>
+      </choice>
+    </choices>
+    <timeout>30</timeout>
+  </stage>
+  <stage stageid="bfdabac1-400a-48b5-a3c5-4411d627d724" name="Action 1" type="SubSheet">
+    <loginhibit />
+    <display x="15" y="15" />
+    <onsuccess>22ff4491-aee5-4b36-9cfb-eb4e178bf1d3</onsuccess>
+    <processid>a9044a99-17db-4278-80fd-b86fbec8082a</processid>
+  </stage>
+  <stage stageid="a0786d72-c096-4dc1-ab90-abec991709cc" name="Start" type="Start">
+    <subsheetid>a9044a99-17db-4278-80fd-b86fbec8082a</subsheetid>
+    <loginhibit />
+    <display x="15" y="-210" />
+    <onsuccess>17bf0664-a095-4853-a2c8-209628921b67</onsuccess>
+  </stage>
+  <stage stageid="17bf0664-a095-4853-a2c8-209628921b67" name="Script Execution VBO::Execute Script" type="Action">
+    <subsheetid>a9044a99-17db-4278-80fd-b86fbec8082a</subsheetid>
+    <loginhibit onsuccess="true" />
+    <display x="15" y="-165" w="120" h="30" />
+    <inputs>
+      <input type="text" name="ScriptEngineFilePath" friendlyname="ScriptEngineFilePath" narrative="The location of the scripting engine executable on your computer." expr="&quot;C:\\Python39\\pythonw.exe&quot;" />
+      <input type="text" name="ScriptFilePath" friendlyname="ScriptFilePath" narrative="The location of the script that you wish to execute. " expr="&quot;C:\\Users\\rocky\\Desktop\\PYTHON_DEV\\&quot;" />
+      <input type="text" name="ScriptNameAndArguments" friendlyname="ScriptNameAndArguments" narrative="The script name and any arguments that your script might need." expr="&quot;image_rec.py&quot;" />
+    </inputs>
+    <outputs>
+      <output type="text" name="ScriptOutput" friendlyname="ScriptOutput" narrative="The results of any output from your executed script." stage="Query" />
+    </outputs>
+    <onsuccess>dfe744cf-6b82-4358-9268-f9dc4e53cadd</onsuccess>
+    <resource object="Script Execution VBO" action="Execute Script" />
+  </stage>
+  <stage stageid="a05df406-1c06-40c4-b8bc-0652b0d7ad49" name="Decision1" type="Decision">
+    <subsheetid>a9044a99-17db-4278-80fd-b86fbec8082a</subsheetid>
+    <loginhibit />
+    <display x="210" y="150" />
+    <decision expression="InStr([Query], [Check]) = 1" />
+    <ontrue>f77aa0dd-e6c9-4677-a819-478c0b08a1b5</ontrue>
+    <onfalse>7b145db6-e8da-44bf-b3c6-99fcd9233247</onfalse>
+  </stage>
+  <stage stageid="1ce308b9-f10a-42f0-bb3d-abd53b8d95e7" name="Check" type="Data">
+    <subsheetid>a9044a99-17db-4278-80fd-b86fbec8082a</subsheetid>
+    <loginhibit />
+    <display x="-150" y="60" />
+    <datatype>text</datatype>
+    <initialvalue xml:space="preserve">happy</initialvalue>
+    <alwaysinit />
+  </stage>
+  <stage stageid="7b145db6-e8da-44bf-b3c6-99fcd9233247" name="Script Execution VBO::Execute Script" type="Action">
+    <subsheetid>a9044a99-17db-4278-80fd-b86fbec8082a</subsheetid>
+    <loginhibit onsuccess="true" />
+    <display x="330" y="150" w="90" h="60" />
+    <inputs>
+      <input type="text" name="ScriptEngineFilePath" friendlyname="ScriptEngineFilePath" narrative="The location of the scripting engine executable on your computer." expr="&quot;C:\\Python39\\pythonw.exe&quot;" />
+      <input type="text" name="ScriptFilePath" friendlyname="ScriptFilePath" narrative="The location of the script that you wish to execute. " expr="&quot;C:\\Users\\rocky\\Desktop\\PYTHON_DEV\\&quot;" />
+      <input type="text" name="ScriptNameAndArguments" friendlyname="ScriptNameAndArguments" narrative="The script name and any arguments that your script might need." expr="&quot;image_rec.py&quot;" />
+    </inputs>
+    <outputs>
+      <output type="text" name="ScriptOutput" friendlyname="ScriptOutput" narrative="The results of any output from your executed script." stage="Query" />
+    </outputs>
+    <onsuccess>2b40374d-6a03-48f3-b53f-1cc0d0378a9d</onsuccess>
+    <resource object="Script Execution VBO" action="Execute Script" />
+  </stage>
+  <stage stageid="2b40374d-6a03-48f3-b53f-1cc0d0378a9d" name="Anchor1" type="Anchor">
+    <subsheetid>a9044a99-17db-4278-80fd-b86fbec8082a</subsheetid>
+    <loginhibit />
+    <display x="255" y="180" w="10" h="10" />
+    <onsuccess>a05df406-1c06-40c4-b8bc-0652b0d7ad49</onsuccess>
+  </stage>
+  <stage stageid="dbf229b1-2b04-4366-91e7-a73c3589ac29" name="Stop Music" type="Navigate">
+    <subsheetid>a9044a99-17db-4278-80fd-b86fbec8082a</subsheetid>
+    <loginhibit />
+    <display x="240" y="255" />
+    <onsuccess>1ab7d341-29a0-4832-accd-582b364bd379</onsuccess>
+    <step>
+      <element id="2165444b-ab77-429d-8cf5-f132617d0a0d" />
+      <action>
+        <id>UIAClickCentre</id>
+        <arguments>
+          <argument>
+            <id>newtext</id>
+            <value>
+            </value>
+          </argument>
+        </arguments>
+      </action>
+    </step>
+  </stage>
+  <stage stageid="5864ea91-2f2b-4059-8f24-3e34983a7d3c" name="Time Out3" type="WaitEnd">
+    <subsheetid>a9044a99-17db-4278-80fd-b86fbec8082a</subsheetid>
+    <loginhibit />
+    <display x="285" y="210" w="30" h="30" />
+    <groupid>3cf95359-ac14-4b34-a756-956796f46617</groupid>
+  </stage>
+  <stage stageid="f77aa0dd-e6c9-4677-a819-478c0b08a1b5" name="Wait3" type="WaitStart">
+    <subsheetid>a9044a99-17db-4278-80fd-b86fbec8082a</subsheetid>
+    <loginhibit />
+    <display x="210" y="210" w="30" h="30" />
+    <groupid>3cf95359-ac14-4b34-a756-956796f46617</groupid>
+    <choices>
+      <choice reply="True">
+        <name>Pause Button Check Exists</name>
+        <distance>30</distance>
+        <ontrue>dbf229b1-2b04-4366-91e7-a73c3589ac29</ontrue>
+        <element id="2165444b-ab77-429d-8cf5-f132617d0a0d" />
+        <condition>
+          <id>CheckExists</id>
+        </condition>
+        <comparetype>Equal</comparetype>
+      </choice>
+    </choices>
+    <timeout>5</timeout>
+  </stage>
+  <stage stageid="311a752b-7543-4968-9d55-c24582c047a0" name="Decision2" type="Decision">
+    <subsheetid>a9044a99-17db-4278-80fd-b86fbec8082a</subsheetid>
+    <loginhibit />
+    <display x="-75" y="-90" />
+    <decision expression="InStr([Query], [Check]) = 1" />
+    <ontrue>4113676b-301e-4300-baaf-db5d1b5d7947</ontrue>
+    <onfalse>f1de3ccd-dd58-46f4-8c85-de39e18dcdc8</onfalse>
+  </stage>
+  <stage stageid="a27c59c2-e913-4eec-9695-f7588a7f95e2" name="Anchor2" type="Anchor">
+    <subsheetid>a9044a99-17db-4278-80fd-b86fbec8082a</subsheetid>
+    <loginhibit />
+    <display x="-75" y="390" w="10" h="10" />
+    <onsuccess>ebf32181-8d80-4776-8bff-436cd7464e9f</onsuccess>
+  </stage>
+  <stage stageid="d783fe50-434b-4e22-b452-5f8b0c439f35" name="API Response" type="Block">
+    <subsheetid>a9044a99-17db-4278-80fd-b86fbec8082a</subsheetid>
+    <loginhibit />
+    <display x="255" y="-180" w="150" h="165" />
+    <font family="Segoe UI" size="10" style="Regular" color="7FB2E5" />
+  </stage>
+  <stage stageid="1ab7d341-29a0-4832-accd-582b364bd379" name="Close The Spotify Window" type="Navigate">
+    <subsheetid>a9044a99-17db-4278-80fd-b86fbec8082a</subsheetid>
+    <loginhibit />
+    <display x="240" y="300" w="90" h="30" />
+    <onsuccess>058d6cd3-773c-434e-9adc-fefd27091c24</onsuccess>
+    <step>
+      <element id="4827edc5-e29b-4686-8dbb-93392ecbfd6d" />
+      <action>
+        <id>CloseWindow</id>
+      </action>
+    </step>
+  </stage>
+  <stage stageid="232db24c-50ad-48d2-a9cc-d51d1f7e55f4" name="Anchor3" type="Anchor">
+    <subsheetid>a9044a99-17db-4278-80fd-b86fbec8082a</subsheetid>
+    <loginhibit />
+    <display x="-165" y="-90" w="10" h="10" />
+    <onsuccess>311a752b-7543-4968-9d55-c24582c047a0</onsuccess>
+  </stage>
+  <stage stageid="bc73ce89-9e52-4aab-ab14-676c4f99f85a" name="Block1" type="Block">
+    <subsheetid>a9044a99-17db-4278-80fd-b86fbec8082a</subsheetid>
+    <loginhibit />
+    <display x="-195" y="-45" w="105" h="195" />
+    <font family="Segoe UI" size="10" style="Regular" color="7FB2E5" />
+  </stage>
+  <stage stageid="0bd7a963-dfab-4690-b347-0d9d89ea5aa4" name="Decision3" type="Decision">
+    <subsheetid>a9044a99-17db-4278-80fd-b86fbec8082a</subsheetid>
+    <loginhibit />
+    <display x="-165" y="-135" />
+    <decision expression="InStr([Query], &quot;None&quot;) = 1" />
+    <ontrue>cb3ee1a2-2917-4d24-a010-01cfbc6df915</ontrue>
+    <onfalse>232db24c-50ad-48d2-a9cc-d51d1f7e55f4</onfalse>
+  </stage>
+  <stage stageid="cb3ee1a2-2917-4d24-a010-01cfbc6df915" name="Anchor4" type="Anchor">
+    <subsheetid>a9044a99-17db-4278-80fd-b86fbec8082a</subsheetid>
+    <loginhibit />
+    <display x="-165" y="-165" w="10" h="10" />
+    <onsuccess>17bf0664-a095-4853-a2c8-209628921b67</onsuccess>
+  </stage>
+  <stage stageid="dfe744cf-6b82-4358-9268-f9dc4e53cadd" name="Anchor5" type="Anchor">
+    <subsheetid>a9044a99-17db-4278-80fd-b86fbec8082a</subsheetid>
+    <loginhibit />
+    <display x="15" y="-135" w="10" h="10" />
+    <onsuccess>0bd7a963-dfab-4690-b347-0d9d89ea5aa4</onsuccess>
+  </stage>
+  <stage stageid="f1de3ccd-dd58-46f4-8c85-de39e18dcdc8" name="Script Execution VBO::Execute Script" type="Action">
+    <subsheetid>a9044a99-17db-4278-80fd-b86fbec8082a</subsheetid>
+    <loginhibit onsuccess="true" />
+    <display x="0" y="-90" w="60" h="60" />
+    <inputs>
+      <input type="text" name="ScriptEngineFilePath" friendlyname="ScriptEngineFilePath" narrative="The location of the scripting engine executable on your computer." expr="&quot;C:\\Python39\\pythonw.exe&quot;" />
+      <input type="text" name="ScriptFilePath" friendlyname="ScriptFilePath" narrative="The location of the script that you wish to execute. " expr="&quot;C:\\Users\\rocky\\Desktop\\PYTHON_DEV\\&quot;" />
+      <input type="text" name="ScriptNameAndArguments" friendlyname="ScriptNameAndArguments" narrative="The script name and any arguments that your script might need." expr="&quot;play_song_notification.py&quot;" />
+    </inputs>
+    <outputs>
+      <output type="text" name="ScriptOutput" friendlyname="ScriptOutput" narrative="The results of any output from your executed script." stage="result" />
+    </outputs>
+    <onsuccess>19685345-a461-4c7f-8270-4298b1cf86e8</onsuccess>
+    <resource object="Script Execution VBO" action="Execute Script" />
+  </stage>
+  <stage stageid="40a62e2b-a250-48d1-87d7-fc764b505db4" name="result" type="Data">
+    <subsheetid>a9044a99-17db-4278-80fd-b86fbec8082a</subsheetid>
+    <display x="-150" y="0" />
+    <datatype>text</datatype>
+    <initialvalue />
+    <private />
+    <alwaysinit />
+  </stage>
+  <stage stageid="19685345-a461-4c7f-8270-4298b1cf86e8" name="Decision4" type="Decision">
+    <subsheetid>a9044a99-17db-4278-80fd-b86fbec8082a</subsheetid>
+    <loginhibit />
+    <display x="75" y="-90" />
+    <decision expression="InStr([result], &quot;True&quot;) = 1" />
+    <ontrue>11a43897-a201-4777-b405-f57d00b877d8</ontrue>
+    <onfalse>50132e6c-479a-466a-aa7e-b2cccecf6486</onfalse>
+  </stage>
+  <stage stageid="ebf32181-8d80-4776-8bff-436cd7464e9f" name="Anchor6" type="Anchor">
+    <subsheetid>a9044a99-17db-4278-80fd-b86fbec8082a</subsheetid>
+    <loginhibit />
+    <display x="75" y="390" w="10" h="10" />
+    <onsuccess>671c419a-35a0-418a-9f48-94b89ad5139b</onsuccess>
+  </stage>
+  <stage stageid="4113676b-301e-4300-baaf-db5d1b5d7947" name="Script Execution VBO::Execute Script" type="Action">
+    <subsheetid>a9044a99-17db-4278-80fd-b86fbec8082a</subsheetid>
+    <loginhibit onsuccess="true" />
+    <display x="-75" y="285" w="60" h="60" />
+    <inputs>
+      <input type="text" name="ScriptEngineFilePath" friendlyname="ScriptEngineFilePath" narrative="The location of the scripting engine executable on your computer." expr="&quot;C:\\Python39\\pythonw.exe&quot;" />
+      <input type="text" name="ScriptFilePath" friendlyname="ScriptFilePath" narrative="The location of the script that you wish to execute. " expr="&quot;C:\\Users\\rocky\\Desktop\\PYTHON_DEV\\&quot;" />
+      <input type="text" name="ScriptNameAndArguments" friendlyname="ScriptNameAndArguments" narrative="The script name and any arguments that your script might need." expr="&quot;happy_notification.py&quot;" />
+    </inputs>
+    <outputs>
+      <output type="text" name="ScriptOutput" friendlyname="ScriptOutput" narrative="The results of any output from your executed script." stage="" />
+    </outputs>
+    <onsuccess>a27c59c2-e913-4eec-9695-f7588a7f95e2</onsuccess>
+    <resource object="Script Execution VBO" action="Execute Script" />
+  </stage>
+  <stage stageid="50132e6c-479a-466a-aa7e-b2cccecf6486" name="Script Execution VBO::Execute Script" type="Action">
+    <subsheetid>a9044a99-17db-4278-80fd-b86fbec8082a</subsheetid>
+    <loginhibit onsuccess="true" />
+    <display x="75" y="285" w="60" h="60" />
+    <inputs>
+      <input type="text" name="ScriptEngineFilePath" friendlyname="ScriptEngineFilePath" narrative="The location of the scripting engine executable on your computer." expr="&quot;C:\\Python39\\pythonw.exe&quot;" />
+      <input type="text" name="ScriptFilePath" friendlyname="ScriptFilePath" narrative="The location of the script that you wish to execute. " expr="&quot;C:\\Users\\rocky\\Desktop\\PYTHON_DEV\\&quot;" />
+      <input type="text" name="ScriptNameAndArguments" friendlyname="ScriptNameAndArguments" narrative="The script name and any arguments that your script might need." expr="&quot;not_happy_notification.py&quot;" />
+    </inputs>
+    <outputs>
+      <output type="text" name="ScriptOutput" friendlyname="ScriptOutput" narrative="The results of any output from your executed script." stage="" />
+    </outputs>
+    <onsuccess>ebf32181-8d80-4776-8bff-436cd7464e9f</onsuccess>
+    <resource object="Script Execution VBO" action="Execute Script" />
+  </stage>
+  <stage stageid="058d6cd3-773c-434e-9adc-fefd27091c24" name="Script Execution VBO::Execute Script" type="Action">
+    <subsheetid>a9044a99-17db-4278-80fd-b86fbec8082a</subsheetid>
+    <loginhibit onsuccess="true" />
+    <display x="240" y="345" w="90" h="30" />
+    <inputs>
+      <input type="text" name="ScriptEngineFilePath" friendlyname="ScriptEngineFilePath" narrative="The location of the scripting engine executable on your computer." expr="&quot;C:\\Python39\\pythonw.exe&quot;" />
+      <input type="text" name="ScriptFilePath" friendlyname="ScriptFilePath" narrative="The location of the script that you wish to execute. " expr="&quot;C:\\Users\\rocky\\Desktop\\PYTHON_DEV\\&quot;" />
+      <input type="text" name="ScriptNameAndArguments" friendlyname="ScriptNameAndArguments" narrative="The script name and any arguments that your script might need." expr="&quot;happy_notification.py&quot;" />
+    </inputs>
+    <outputs>
+      <output type="text" name="ScriptOutput" friendlyname="ScriptOutput" narrative="The results of any output from your executed script." stage="" />
+    </outputs>
+    <onsuccess>671c419a-35a0-418a-9f48-94b89ad5139b</onsuccess>
+    <resource object="Script Execution VBO" action="Execute Script" />
+  </stage>
+</process>
